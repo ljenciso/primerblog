@@ -2,4 +2,5 @@ Este archivo es otra prueba de GitHub
 No tiene ninguna cosa en particular 
 No contiene nada relevante 
 Pero no se puede borrar 
-Ahora le hago algunos cambios 
+Ahora le hago algunos cambios. 
+Es muy interesante aprender esto porque permite manejar mejor esto
